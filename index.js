@@ -1,5 +1,5 @@
 function viewName() {
-    const name = document.getElementById("name").value;
+    const name = document.getElementById("name").value
 
-    document.write(name);
+    document.write(name)
 }
